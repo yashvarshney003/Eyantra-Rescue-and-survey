@@ -16,7 +16,7 @@ In eYRC 2019-20 we explore an abstracted version of this disaster scenario, usin
 Credit: Eyantra
 
 # About Competition 
-Whole competition is divided into two stage. First stage1 contain some part of software simulation of theme some part of theme ans stage2 contain real simulation of theme using robotic kit provided by them.<br/>
+Whole competition is divided into two stage. First stage1 contain some part of software simulation of theme and stage2 contain real simulation of theme using robotic kit provided by them contain Drone.<br/>
 Stage1 Task1 Video:-https://youtu.be/pWJ98NIzOdk <br/>
 Stage2 Task2 Video:-https://youtu.be/0VOhlZp05uU__  <br/>
 Stage3 Task3.1 Video:-https://youtu.be/y4iRJL_CBTw__  <br/>
