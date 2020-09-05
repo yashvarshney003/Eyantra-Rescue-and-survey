@@ -17,12 +17,12 @@ Credit: Eyantra
 
 # About Competition 
 Whole competition is divided into two stage. First stage1 contain some part of software simulation of theme some part of theme ans stage2 contain real simulation of theme using robotic kit provided by them.
-Stage1 Task1 Video:-https://youtu.be/pWJ98NIzOdk__
-Stage2 Task2 Video:-https://youtu.be/0VOhlZp05uU__
-Stage3 Task3.1 Video:-https://youtu.be/y4iRJL_CBTw__
-Stage3 Task3.2 Video:- https://youtu.be/AWCe_X22__E__
-Stage4 Task4 Video:- https://www.youtube.com/watch?v=AWCe_X22__E&feature=youtu.be__
-Stage5 Final Simulation :-
+Stage1 Task1 Video:-https://youtu.be/pWJ98NIzOdk <br/>
+Stage2 Task2 Video:-https://youtu.be/0VOhlZp05uU__  <br/>
+Stage3 Task3.1 Video:-https://youtu.be/y4iRJL_CBTw__  <br/>
+Stage3 Task3.2 Video:- https://youtu.be/AWCe_X22__E__  <br/>
+Stage4 Task4 Video:- https://www.youtube.com/watch?v=AWCe_X22__E&feature=youtu.be__  <br/>
+Stage5 Final Simulation :-  <br/>
 
 
 
