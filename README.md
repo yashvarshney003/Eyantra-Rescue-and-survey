@@ -34,6 +34,9 @@ Stage2 Final Simulation :-  <br/>
 This task involves installing the required software(Gazebo and ROS) to complete all future tasks. Install Linux, Gazebo and ROS along with various libraries and perform a simple task associated with them.<br>
 This task contain basic learning of ROS concept like <br> 1. what is ROS Topic? <br> 2. How to write to ROS Topic ? <br> 3. How to write to ROS Nodes ? <br> 4. What is ROS subscriber and publisher ?5.How to build ROS package ? <br> 6. What is Bag File and use of Bag file? <br>
 We are given challenge to show x,y,z co-ordinate of Drone with respect to  virtual camera which are on the top of Drone in Gazebo.Position of Drone is calculated with the help of Whycon Marker <br>
+
+
+See the task Video:-https://youtu.be/pWJ98NIzOdk
 ( Many script were written by eYRC we only made changes according to challenge)<br>
 <img src = "https://user-images.githubusercontent.com/59112785/94337689-1fe97a80-000a-11eb-957c-c47540770014.PNG" width="200" height ="200" >
 <br>
@@ -42,7 +45,10 @@ We are given challenge to show x,y,z co-ordinate of Drone with respect to  virtu
 
 
 # Stage 1 Task1 :
-This task divided into two part part1 and part2.
+This task divided into two part part1 and part2. In part1 we had provided many pdf for help. Task1 was to made a PID script for Drone to fly it to specific co-ordinate<br>
+
+See the task Video:-https://youtu.be/0VOhlZp05uU
+
 
 
 
