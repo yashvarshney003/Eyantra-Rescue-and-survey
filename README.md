@@ -30,8 +30,16 @@ Stage2 Final Simulation :-  <br/>
 
 
 ![certificate-page-001](https://user-images.githubusercontent.com/59112785/92140158-5dede700-ee2e-11ea-981f-c9e83f8906be.jpg)
-# Stage 1 Task1 :
+# Stage 1 Task 0 :
 This task involves installing the required software(Gazebo and ROS) to complete all future tasks. Install Linux, Gazebo and ROS along with various libraries and perform a simple task associated with them.<br>
-This task contain basic learning of ROS concept like <br> 1. what is ROS Topic? <br> 2. How to write to ROS Topic ? <br> 3. How to write to ROS Nodes ? <br> 4. What is ROS subscriber and publisher ?5.How to build ROS package ? <br> 6. What is Bag File <br>
+This task contain basic learning of ROS concept like <br> 1. what is ROS Topic? <br> 2. How to write to ROS Topic ? <br> 3. How to write to ROS Nodes ? <br> 4. What is ROS subscriber and publisher ?5.How to build ROS package ? <br> 6. What is Bag File and use of Bag file? <br>
+We are given challenge to show x,y,z co-ordinate of Drone with respect to  virtual camera which are on the top of Drone in Gazebo.Position of Drone is calculated with the help of Whycon Marker <br>
+( Many script were written by eYRC we only made changes according to challenge)
+![stage1 task0A](https://user-images.githubusercontent.com/59112785/94337689-1fe97a80-000a-11eb-957c-c47540770014.PNG)
+![stage1 task0](https://user-images.githubusercontent.com/59112785/94337693-2f68c380-000a-11eb-8374-2c4310b4bcdb.PNG)
+
+
+# Stage 1 Task1 :
+
 
 
