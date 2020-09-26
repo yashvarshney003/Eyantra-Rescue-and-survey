@@ -16,13 +16,13 @@ In eYRC 2019-20 we explore an abstracted version of this disaster scenario, usin
 Credit: Eyantra
 
 # About Competition 
-Whole competition is divided into two stage. First stage1 contain some part of software simulation of theme and stage2 contain real simulation of theme using robotic kit provided by them contain Drone.<br/>
+Whole competition is divided into two stage. First stage1 contain Task0 and Task1 and stage2 conatin Task2,Task3,Tssk4  and Task5.<br/>
 Stage1 Task1 Video:-https://youtu.be/pWJ98NIzOdk <br/>
-Stage2 Task2 Video:-https://youtu.be/0VOhlZp05uU__  <br/>
-Stage3 Task3.1 Video:-https://youtu.be/y4iRJL_CBTw__  <br/>
-Stage3 Task3.2 Video:- https://youtu.be/AWCe_X22__E__  <br/>
-Stage4 Task4 Video:- https://www.youtube.com/watch?v=AWCe_X22__E&feature=youtu.be__  <br/>
-Stage5 Final Simulation :-  <br/>
+Stage1 Task2 Video:-https://youtu.be/0VOhlZp05uU__  <br/>
+Stage2 Task3.1 Video:-https://youtu.be/y4iRJL_CBTw__  <br/>
+Stage2 Task3.2 Video:- https://youtu.be/AWCe_X22__E__  <br/>
+Stage2 Task4 Video:- https://www.youtube.com/watch?v=AWCe_X22__E&feature=youtu.be__  <br/>
+Stage2 Final Simulation :-  <br/>
 
 
 
@@ -30,5 +30,8 @@ Stage5 Final Simulation :-  <br/>
 
 
 ![certificate-page-001](https://user-images.githubusercontent.com/59112785/92140158-5dede700-ee2e-11ea-981f-c9e83f8906be.jpg)
+# Stage 1 Task1 :
+This task involves installing the required software(Gazebo and ROS) to complete all future tasks. Install Linux, Gazebo and ROS along with various libraries and perform a simple task associated with them.<br>
+This task contain basic learning of ROS concept like <br> 1. what is ROS Topic? <br> 2. How to write to ROS Topic ? <br> 3. How to write to ROS Nodes ? <br> 4. What is ROS subscriber and publisher ?5.How to build ROS package ? <br> 6. What is Bag File <br>
 
 
