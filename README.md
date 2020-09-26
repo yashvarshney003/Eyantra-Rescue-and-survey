@@ -42,6 +42,7 @@ We are given challenge to show x,y,z co-ordinate of Drone with respect to  virtu
 
 
 # Stage 1 Task1 :
+This task divided into two part part1 and part2.
 
 
 
